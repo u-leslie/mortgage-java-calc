@@ -1,1 +1,2 @@
-# mortgage-java-calc
+# mortgage_calc_java
+First java program
